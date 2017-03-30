@@ -1,0 +1,14 @@
+//
+// Created by Cody Neil on 3/29/17.
+//
+
+#ifndef EXTENDEDKF_DIVIDEBYZEROJACOBIANERROR_H
+#define EXTENDEDKF_DIVIDEBYZEROJACOBIANERROR_H
+
+
+class DivideByZeroJacobianError {
+
+};
+
+
+#endif //EXTENDEDKF_DIVIDEBYZEROJACOBIANERROR_H
